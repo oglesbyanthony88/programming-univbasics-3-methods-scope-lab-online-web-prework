@@ -14,6 +14,6 @@ def link
 end
 
 def buzz_lightyear
-  shout = "Too Infinity and Beyond!"
-  puts shout
+  phrase = "Too Infinity and Beyond!"
+  puts phrase
 end
