@@ -9,4 +9,11 @@ def toadstool
 end
 
 def link
-  stroke = 
+  stroke = "It's Dangerous To Go Alone! Take This."
+  puts stroke
+end
+
+def buzz_lightyear
+  shout = "Too Infinity and Beyond!"
+  puts shout
+end
