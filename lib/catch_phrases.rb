@@ -13,7 +13,7 @@ def link
   puts stroke
 end
 
-def buzz_lightyear
+def buzz_lightyear(phrase)
   phrase = "Too Infinity and Beyond!"
   puts phrase
 end
