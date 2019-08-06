@@ -13,6 +13,6 @@ def link
   puts stroke
 end
 
-def buzz_lightyear(phrase)
+def any_phrase(phrase)
   puts phrase
 end
