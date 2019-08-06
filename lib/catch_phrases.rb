@@ -14,6 +14,5 @@ def link
 end
 
 def buzz_lightyear(phrase)
-  phrase = "Too Infinity and Beyond!"
   puts phrase
 end
